@@ -1,2 +1,2 @@
-# 30DaysOfUDacity
+# 30DaysOfUdacity
 Updates
